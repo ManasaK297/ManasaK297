@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi There,
+I'm Manasa K 
 
-<!--
-**ManasaK297/ManasaK297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Computer Science student and aspiring Software Developer 🚀
+I’m looking to collaborate on **Open Source, Hackathons, DSA Problems
 
-Here are some ideas to get you started:
+Skills ->
+    Programming Languages : Java,Python,C
+    Tools/Platforms       : VS code, GitHub    
+    Databases             : MySQL,MongoDB
+    Specialized           : Machine Intelligence and Data Science 
+    
+Knowledge in->
+              Data Analytics
+              Big Data
+              Information Retrieval 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me->
+                Gmail    : bhuvaneshwarikb160@gmail.com
+                LinkedIn : https://www.linkedin.com/in/manasa-k-08b7a9320/  
+                LeetCode : https://leetcode.com/u/PES2UG22CS297/
+                GFG      : https://www.geeksforgeeks.org/user/manasak297/
+
+
