@@ -25,7 +25,7 @@ Knowledge in->
 
 Connect with Me->
 
-                Gmail    : bhuvaneshwarikb160@gmail.com
+                Gmail    : manasakb160@gmail.com
 		
                 LinkedIn : https://www.linkedin.com/in/manasa-k-08b7a9320/ 
 		
